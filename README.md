@@ -1,7 +1,7 @@
 ### Hola 👋, Mi nombre es Matias
 ![](https://cdn.discordapp.com/attachments/1016851947908771950/1134308617491845240/matias_palma.png)
 
-Apasionado desarrollador de servidores para videojuegos con experiencia en la creación de infraestructura y arquitecturas de servidores. Tengo habilidades sólidas en programación, con un profundo conocimiento de los lenguajes relevantes, como C++, Java, Python, y otros.
+Apasionado desarrollador de servidores para videojuegos con experiencia en la creación de infraestructura y arquitecturas de servidores.
 
 He trabajado en la creación de servidores personalizados para juegos populares como Minecraft, Rust, FiveM, y otros, tengo experiencia en la implementación de sistemas de seguridad y escalabilidad para garantizar que los servidores funcionen sin problemas y sean capaces de soportar un alto volumen de jugadores.
 
