@@ -9,7 +9,7 @@ Habilidades: C++ / Java / Python / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmatias&show_icons=true&theme=tokyonight)
 
-- 🔭 Estoy trabajando en this page. 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Actualmente+trabajando+en+PARLEY+RP)](https://git.io/typing-svg) 
 
 
 
