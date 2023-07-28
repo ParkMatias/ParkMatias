@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Matias
+![](https://cdn.discordapp.com/attachments/1016851947908771950/1134308617491845240/matias_palma.png)
 
-<!--
-**ParkMatias/ParkMatias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionado desarrollador de servidores para videojuegos con experiencia en la creación de infraestructura y arquitecturas de servidores. Tengo habilidades sólidas en programación, con un profundo conocimiento de los lenguajes relevantes, como C++, Java, Python, y otros.
 
-Here are some ideas to get you started:
+He trabajado en la creación de servidores personalizados para juegos populares como Minecraft, Rust, FiveM, y otros, tengo experiencia en la implementación de sistemas de seguridad y escalabilidad para garantizar que los servidores funcionen sin problemas y sean capaces de soportar un alto volumen de jugadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: C++ / Java / Python / HTML / CSS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmatias&show_icons=true&theme=tokyonight)
+
+- 🔭 Estoy trabajando en this page. 
+
+
+
+
