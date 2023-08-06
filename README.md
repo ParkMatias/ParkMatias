@@ -19,9 +19,8 @@ Lua / Java / Python / HTML / CSS
 
 
 ## Donde estoy actualmente:
-[PARLEY RP](http://parleyrp.com)
 
-![PARLEYRP](https://media.discordapp.net/attachments/1116204654632636463/1129157558830121069/ezgif-2-c0c5c03355.gif)
+![PARLEYRP](https://cdn.discordapp.com/attachments/1128678318670106764/1135367193916350464/LA_FACTORIA_RP_2.png)
 
 
 
