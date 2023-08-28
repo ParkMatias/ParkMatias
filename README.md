@@ -20,7 +20,7 @@ Lua / Java / Python / HTML / CSS
 
 ## Donde estoy actualmente:
 
-![PARLEYRP](https://cdn.discordapp.com/attachments/1128678318670106764/1135367193916350464/LA_FACTORIA_RP_2.png)
+Actualmente me encuentro disponible.
 
 
 
