@@ -1,5 +1,4 @@
 ### Hola 👋, Mi nombre es Matias
-![](https://cdn.discordapp.com/attachments/1016851947908771950/1134308617491845240/matias_palma.png)
 
 Apasionado desarrollador de servidores para videojuegos con experiencia en la creación de infraestructura y arquitecturas de servidores.
 
