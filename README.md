@@ -15,12 +15,3 @@ Lua / Python / HTML / JS / CSS
 
 ## Stats:   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkmatias&show_icons=true&theme=tokyonight)
-
-
-## Donde estoy actualmente:
-
-Actualmente me encuentro disponible.
-
-
-
-
