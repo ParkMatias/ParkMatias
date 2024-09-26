@@ -7,8 +7,8 @@ WebDev
 He trabajado en la creación de servidores personalizados para juegos populares como Minecraft, Rust, FiveM, y otros, tengo experiencia en la implementación de sistemas de seguridad y escalabilidad para garantizar que los servidores funcionen sin problemas y sean capaces de soportar un alto volumen de jugadores.
 
 * 🌍  I'm based in Chile
-* 🚀  I'm currently working on [Dei Scripts](http://discord.gg/zP6CscVYDm)
-* 🤝  I'm open to collaborating on FiveM Projects
+* 🚀  I'm currently working as FreeLancer.
+* 🤝  I'm open to collaborating on Web or FiveM projects.
 
 <a href="https://www.github.com/ParkMatias" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ParkMatias?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/parkmatias" target="_blank" rel="noreferrer"><img
