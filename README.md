@@ -1,77 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matias Palma
-==================================================================================================================================
+# Hi, I'm Matias Palma 👋
 
-Driven by curiosity and the desire to build better, every day.
-------
-With experience in HTML, CSS, JavaScript, React, Tailwind, and Node.js, as well as languages like Python and Kotlin, I have developed strong skills in creating web solutions and managing servers. My work includes designing custom servers for games like Minecraft, Rust, and FiveM, ensuring optimal performance and scalability.
+**Full-Stack Developer** from Temuco, Chile. I build solutions that solve real business and operational problems — from architecture to production deployment.
 
-Proficient in databases such as Microsoft SQL Server, MySQL, and SQLite, and tools like Git, AWS, and Figma, my focus is on providing innovative solutions for technical challenges and ensuring a seamless user experience.
+Currently working as **Systems Developer & IT Support** at AV GRAFFIX and building **Daisu**, a language exchange platform.
 
-* 🌍  I'm based in Chile
-* 🚀  I'm currently working on [Daisu](https://daisu.vercel.app/)
-* 🤝  I'm open to collaborating on Web or FiveM projects.
+- 🎓 CS Engineering student at AIEP
+- 🌎 Languages: Spanish · English · Portuguese
+- 💼 Open to work — remote or on-site in Temuco
 
-<a href="https://www.github.com/matiaspalmac" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/matiaspalmac?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/parkmatias" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/matiaspalmac?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+## What I'm building
 
-### Skills
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Daisu**](https://daisu.vercel.app) | Language exchange platform with real-time chat, tandem matching, 25+ DB tables, admin dashboard, i18n in 3 languages | Next.js · Express · Socket.io · Turso · NextAuth |
+| [**Rankeao**](https://rankeao.cl) | TCG tournament platform — microservices backend, web + mobile apps, marketplace, gamification | Go · PostgreSQL · Next.js · React Native · Expo |
+| [**AV GRAFFIX**](https://avgraffix.cl) | Corporate website + internal ERP (PWA) with 21 modules, 28 tables, invoicing, inventory, Gantt, RBAC | Next.js · Drizzle ORM · Turso · NextAuth |
+| [**Banda MalPaso**](https://bandamalpaso.vercel.app) | Music band website with headless JSON CMS, Spotify/YouTube integration, Schema.org SEO | Next.js · TypeScript · Framer Motion |
+| [**Heartopia Wiki**](https://heartopiachile.vercel.app) + [**Annie Bot**](https://github.com/matiaspalmac/annie) | Two-app ecosystem sharing the same Turso DB. Wiki with 400+ items & admin panel. Discord bot with 64 commands, economy, casino, crafting, pets | Next.js · Discord.js · Turso · NextAuth · Recharts |
 
+## Tech
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat-square" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=fff&style=flat-square" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Native" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=fff&style=flat-square" alt="Discord.js" />
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat-square" alt="Git" />
 </p>
 
-<p align="left">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-</p>
+## Stats
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
-</p>
+<a href="https://github.com/matiaspalmac">
+  <img src="https://github-readme-stats.vercel.app/api?username=matiaspalmac&show_icons=true&count_private=true&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0a0a0b&hide_border=true" alt="GitHub stats" />
+</a>
 
+<a href="https://github.com/matiaspalmac">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspalmac&langs_count=8&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0a0a0b&hide_border=true&layout=compact" alt="Top Languages" />
+</a>
 
+## Connect
 
-### Socials
-
-<p align="left"></picture> </a> <a href="https://www.github.com/matiaspalmac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> <a href="https://www.linkedin.com/in/matiaspalmac" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/matiaspalmac"><img src="https://github-readme-stats.vercel.app/api?username=matiaspalmac&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Matias Palma GitHub stats" /></a>
-
-<a href="https://github.com/matiaspalmac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiaspalmac&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=matiaspalmac&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)](https://www.linkedin.com/in/matiaspalmac/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3b82f6?style=flat-square)](https://matiaspalmac.github.io)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff&style=flat-square)](mailto:matiaspalma2594@gmail.com)
