@@ -14,8 +14,6 @@ Currently working as **Systems Developer & IT Support** at AV GRAFFIX and buildi
 |---------|-------------|-------|
 | [**Daisu**](https://daisu.vercel.app) | Language exchange platform with real-time chat, tandem matching, 25+ DB tables, admin dashboard, i18n in 3 languages | Next.js · Express · Socket.io · Turso · NextAuth |
 | [**Rankeao**](https://rankeao.cl) | TCG tournament platform — microservices backend, web + mobile apps, marketplace, gamification | Go · PostgreSQL · Next.js · React Native · Expo |
-| [**AV GRAFFIX**](https://avgraffix.cl) | Corporate website + internal ERP (PWA) with 21 modules, 28 tables, invoicing, inventory, Gantt, RBAC | Next.js · Drizzle ORM · Turso · NextAuth |
-| [**Banda MalPaso**](https://bandamalpaso.vercel.app) | Music band website with headless JSON CMS, Spotify/YouTube integration, Schema.org SEO | Next.js · TypeScript · Framer Motion |
 | [**Heartopia Wiki**](https://heartopiachile.vercel.app) + [**Annie Bot**](https://github.com/matiaspalmac/annie) | Two-app ecosystem sharing the same Turso DB. Wiki with 400+ items & admin panel. Discord bot with 64 commands, economy, casino, crafting, pets | Next.js · Discord.js · Turso · NextAuth · Recharts |
 
 ## Tech
